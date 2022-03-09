@@ -1,6 +1,6 @@
-# นายพีรพล ซึ้งพุทศาสน์  
+# นายโชคทวี แก้วบุตร  
 
-## รหัสนักศึกษา 630112418051-2  
+## รหัสนักศึกษา 630112418042-2  
 
 ### สาขาวิชเทคโนโลยีสารสนเทศ  
 
@@ -12,5 +12,5 @@
 > git clone https://github.com/Peerapon14/4132202-2-64-SEC02.git
 
 **Link**  
-[LAB](https://github.com/Peerapon14/4132202-2-64-SEC02/tree/main/LAB1)
+[LAB](https://github.com/Chokthawee/4132202-2-64-SEC02/tree/main/LAB1)
 
